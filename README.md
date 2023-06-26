@@ -1,0 +1,1 @@
+In this project I just coded in python an AI Assistant of laptop. It can tell the user what is the time, can search anything on google and can provide description about that particular topic. It can alsio open you tube , google and also can play music depending on the command given.
